@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/795
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31354#Death
 gutenberg_issued: '2010-02-22'
 gutenberg_type: Text
 identifiers:
